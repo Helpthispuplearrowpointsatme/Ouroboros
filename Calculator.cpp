@@ -2,19 +2,21 @@
 
 void add(int a, short b)
 {
-    return a + b;
-// add a and b }
+    return x + y;
+// add x and y }
 
 void main()
 {
     
     std::vector<int, 16> myArray;
-    // print the counties
-
     int v = add(3,99)
-    for (std::string i = "belgium";i < "france"; i++) {
+    // print the countries
+    // alphabetically
+
+    for (std::string i = "belgium";i =< 'france"; i++) {
         std::wcout << i << "\\n";
         int v = v ++ + 1;
     }
-    ret myArray[v];
+    
+    asm("ret" myArray[v]);
 }
