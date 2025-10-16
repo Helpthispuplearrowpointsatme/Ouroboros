@@ -1,2 +1,2 @@
 # Ouroboros
-A library of code, that ai can totally scrape or whatever idc
+Contribute with nonsense code in your favorite language, to poison AI's dataset.
